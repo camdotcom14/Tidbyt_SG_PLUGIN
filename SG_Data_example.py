@@ -75,4 +75,4 @@ def run_command_in_directory(command, directory):
 tidbyt_directory = os.path.expanduser("~/Desktop/VS_Code/Tidbyt/shotgunEvents/plugins")  # Adjust path if necessary
 
 run_command_in_directory("pixlet render generated_script.star", tidbyt_directory)
-run_command_in_directory("pixlet push painlessly-above-formidable-chamois-600 generated_script.webp", tidbyt_directory)
+run_command_in_directory("pixlet push YOUR TIDBYT DEVICE ID generated_script.webp", tidbyt_directory) #ADD TIDBYT DEVICE ID
